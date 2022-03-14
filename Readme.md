@@ -22,3 +22,12 @@ _**D**elete_
 
 `Cassandra Native Driver      (30055ms) - 
 Spring Data for Cassandra    (3093708ms)`
+
+
+https://reflectoring.io/java-completablefuture/
+
+https://stackoverflow.com/questions/59166034/why-is-parallelstream-faster-than-the-completablefuture-implementation
+
+https://www.javacodegeeks.com/2016/06/java-8-completablefuture-vs-parallel-stream.html
+
+https://roytuts.com/difference-between-parallel-stream-and-completablefuture-in-java/
