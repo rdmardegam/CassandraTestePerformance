@@ -31,3 +31,10 @@ https://stackoverflow.com/questions/59166034/why-is-parallelstream-faster-than-t
 https://www.javacodegeeks.com/2016/06/java-8-completablefuture-vs-parallel-stream.html
 
 https://roytuts.com/difference-between-parallel-stream-and-completablefuture-in-java/
+
+
+
+-----------
+LOGGIN REATIVO:
+https://piotrminkowski.com/2019/10/15/reactive-logging-with-spring-webflux-and-logstash/
+
