@@ -38,3 +38,9 @@ https://roytuts.com/difference-between-parallel-stream-and-completablefuture-in-
 LOGGIN REATIVO:
 https://piotrminkowski.com/2019/10/15/reactive-logging-with-spring-webflux-and-logstash/
 
+
+--- REATIVO
+https://nickolasfisher.com/blog/How-to-Make-Parallel-API-calls-in-Spring-Boot-Webflux
+https://www.cognizantsoftvision.com/blog/getting-started-with-reactive-spring-spring-webflux/
+https://blog.jdriven.com/2020/10/spring-webflux-reactor-meltdown-slow-responses/
+https://www.baeldung.com/spring-webflux-backpressure
